@@ -1,3 +1,7 @@
+---
+layout: homepage
+---
+
 ## Main Category
 
 Text.... [my github page](https://github.com/GregoryLeMasurier)
